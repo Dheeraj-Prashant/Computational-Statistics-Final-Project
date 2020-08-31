@@ -1,5 +1,5 @@
 # Computational Statistics Final Project
-## A comparative study of the predictive analysis of logistic regression, Regression Trees and Random Forest.
+## A comparative study of the prediction of logistic regression, Regression Trees and Random Forest.
 ---
 
 ## Overview:
